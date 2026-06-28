@@ -9,7 +9,7 @@ langgraph
 pymupdf
 langchain-pinecone
 openai
-sentence-transformers
+#sentence-transformers
 pandas
 psycopg2-binary
 fastapi
@@ -18,6 +18,6 @@ requests
 python-dotenv
 datasets
 rouge-score
-ragas
+#ragas
 nltk
 streamlit
