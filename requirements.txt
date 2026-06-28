@@ -20,3 +20,4 @@ datasets
 rouge-score
 ragas
 nltk
+streamlit

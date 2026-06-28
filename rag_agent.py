@@ -33,6 +33,7 @@ text_splitter = RecursiveCharacterTextSplitter(
 )
 chunks = text_splitter.split_documents(docs)
 
+print(openai_embedding_model)  # Print the dimensions of the embedding model
 # Initialize Pinecone client and create/connect to index
 pinecone = Pinecone(api_key=os.getenv("PINECONE_API_KEY"))
 try:
