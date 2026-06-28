@@ -1,0 +1,4 @@
+# Placeholder for Flights_Schedule_Data_v1.csv
+id,flight_no,airline_code,airline_name,origin,destination,departure_date,departure_time,arrival_date,arrival_time,status,delay_minutes,delay_reason,terminal,gate,aircraft_type,seats_total,seats_booked,fare_inr
+1,AI695,AI,Air India,DEL,BOM,2026-11-05,06:00:00,2026-11-05,08:00:00,On Time,0,,T3,A1,Boeing 737,150,120,5000
+2,SG528,SG,SpiceJet,BOM,BLR,2026-11-05,07:30:00,2026-11-05,09:00:00,Delayed,60,Technical Issue,T1,B2,Airbus A320,180,150,4500
